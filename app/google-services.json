@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "138207534043",
+    "project_id": "david-26ac1",
+    "storage_bucket": "david-26ac1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138207534043:android:c41d55a95e35771168a5fe",
+        "android_client_info": {
+          "package_name": "com.example.practica3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Zv5-wjxnV7C-r3nRCDCstLyqpx8-5wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138207534043:android:281255f2201f4a0d68a5fe",
+        "android_client_info": {
+          "package_name": "com.example.proyectou2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Zv5-wjxnV7C-r3nRCDCstLyqpx8-5wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138207534043:android:773a1ed3a7d91a2668a5fe",
+        "android_client_info": {
+          "package_name": "com.example.universidad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Zv5-wjxnV7C-r3nRCDCstLyqpx8-5wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
